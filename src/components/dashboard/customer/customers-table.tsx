@@ -73,11 +73,12 @@ export function CustomersTable({
                   }}
                 />
               </TableCell>
-              <TableCell>Name</TableCell>
-              <TableCell>Email</TableCell>
-              <TableCell>Location</TableCell>
-              <TableCell>Phone</TableCell>
-              <TableCell>Signed Up</TableCell>
+              <TableCell> Scrip Name</TableCell>
+              <TableCell>Operation</TableCell>
+              <TableCell>Category</TableCell>
+              <TableCell>Creator</TableCell>
+              <TableCell>Created Time</TableCell>
+              <TableCell></TableCell>
             </TableRow>
           </TableHead>
           <TableBody>
